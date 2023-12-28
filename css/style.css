@@ -71,3 +71,7 @@ nav {
 
     background: url(../images/body-img.jpg);
 }
+
+.cta {
+	animation: 3s cubic-bezier(0.4, 0, 1, 1) ease-in;
+}
